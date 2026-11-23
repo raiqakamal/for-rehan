@@ -67,19 +67,22 @@ const FILM = {
     page: {
       title: "What we built.",
       paragraphs: [
-        "When I think about us three years ago, I almost laugh. We had no idea what we were doing. We just knew we liked talking to each other and never wanted the call to end.",
-        "Since then we've grown up side by side. We've learned how to argue and make up faster. We've learned each other's moods, the little things that make a bad day better, and when to just listen. None of that happened by accident. We chose each other, over and over.",
-        "I've gotten to celebrate three of your birthdays with you, and every one has meant more than the one before. Not because the plans got bigger, but because I knew you a little better each time.",
-        "What we have now feels steady in a way I didn't know was possible. Thank you for growing with me instead of away from me. I'm so proud of us."
+        "Whenever I think about our story, I come back to one idea that if something is meant to be, it always finds its way back to you. From the moment we both thought “there’s something special about this person,” to the two and a half years we couldn’t let go of each other, to finally finding our way back and learning to handle the distance, it all led here. I truly believe we’ll always be each other’s person, and that we’re exactly where we’re supposed to be.",
+        "Since we met, we’ve grown side by side, both as individuals and together. We’ve landed career opportunities, made it through years of school, and even graduated. More than that, we’ve learned how to communicate better, make up faster, and be the key to the reason others have a better day. This all happened because we keep choosing each other, over and over.",
+        "You make that the easiest choice I’ve ever made. While the distance hasn’t been easy, it’s become one of the biggest blessings in our relationship. It’s given me room to understand you better, to know you more, and to connect with you in ways we never did in our first two years together. Strangely, I feel closer to you now than ever.",
+        "The things I hold closest to my heart quickly became dozing off on late night calls, hearing the way your mind works while we watch AOT, and getting my ego bruised every time we play games online. Most of all, it’s learning how to really talk to you, whether we’re working through something hard or just talking for hours about nothing.",
+        "You’ve gone beyond everything I ever hoped for in a person, ten times over. You’re one of the strongest people I know, someone I deeply admire, and perfect to me in every way. You’re the best part of my day, every day.",
+        "I’ve now celebrated four of your birthdays with you, and each one has meant more than the last, because every year I know you a little better.",
+        "What we’ve grown into feels like a breath of fresh air every single day, in a way I never knew we’d get to have. Thank you for growing with me, love. I wouldn’t have it any other way."
       ]
     },
     tagline: "On us.",
     paragraphs: [
-      "We were kids when this started. Somewhere between the late night calls, the fights we laughed about later, and every \"okay, you hang up first,\" we grew up together.",
-      "We learned how to be patient with each other. How to show up, even from the other side of the world. What we have didn't happen by accident. We built it."
+      "We were babies when this all started. We've gone through so many stages, like 5 at this point, and somewhere between our secret hangouts, the calls we have now, and the fights we laughed about later, we grew up together.",
+      "We learned how to be patient with each other. How to show up, even from the other side of the world. I love what we've built."
     ],
     birthdaysTitle: "Three birthdays together.",
-    birthdaysText: "I'm so grateful I got to spend them with you, and I'm still not tired of celebrating you.",
+    birthdaysText: "I'm so grateful I got to spend them with you, and I'll never be tired of celebrating you.",
     birthdays: [
       { year: "2023", photo: "photos/bday-1.jpg", caption: "caption here" },
       { year: "2024", photo: "photos/bday-2.jpg", caption: "caption here" },
