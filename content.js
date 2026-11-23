@@ -41,7 +41,7 @@ const FILM = {
         "I didn’t think I could be any happier watching you step into this new chapter of your life. Then I realized I get to be here with you for it, and somehow that makes it even better.",
         "I’ll always remember the passionate, driven boy I met when we first started talking. You still show me he’s there, especially now that you’ve taken your nerdy passions and turned them into a real goal you pour your days and nights into. I’m so proud of you, and I know freshman year Rehan would be too.
 ",
-        "TWhen we met, I had no idea of the extent of your growing up I’d get to see, or that I’d get to be there for every step of it. I watched you go from building your whole life around swimming to choosing what actually makes you happy. I watched you figure out who you are and what kind of person you want to be. And I’ve seen you face obstacle after obstacle and come out of each one stronger than before.
+        "When we met, I had no idea of the extent of your growing up I’d get to see, or that I’d get to be there for every step of it. I watched you go from building your whole life around swimming to choosing what actually makes you happy. I watched you figure out who you are and what kind of person you want to be. And I’ve seen you face obstacle after obstacle and come out of each one stronger than before.
 ",
         "This year has been different from the ones before it. You moved to Dubai, your days look completely different, we hit a bump in the middle, and we made it through another year together. That’s a lot of change, but I’m happy to say all of it was for the better. None of it made you lose hope or turn bitter. It made you wiser, more patient, more thoughtful, and more sure of yourself. I’ve always seen those things in you, and they only grow as time goes on. I admire the way that you take care of the people you love, and how you will never give up."
         "Eighteen is going to look so good on you. I’m so grateful I get to stay by your side on this journey, and I can’t wait to watch you become everything you hope to be. I love you so so much stinkabutt. 
@@ -102,10 +102,10 @@ const FILM = {
     // Memory quiz. "answer" is the number of the right option, starting from 0.
     // For a typed answer use type: "text" and match: any answer containing this word counts as right.
     quiz: [
-      { q: "Who said \"I love you\" first?", options: ["Rehan", "Raiqa"], answer: 0, right: "Correct. And I said it back immediately.", wrong: "Nope. Nice try." },
-      { q: "Who always falls asleep first on FaceTime?", options: ["Rehan", "Raiqa", "Both of us, at the same time"], answer: 0, right: "Every single time.", wrong: "We both know that's not true." },
+      { q: "Who said \"I love you\" first?", options: ["Rehan", "Raiqa"], answer: "Raiqa", right: "Correct.", wrong: "Nope. Nice try." },
+      { q: "Who always falls asleep first on FaceTime?", options: ["Rehan", "Raiqa", "Both of us, at the same time"], answer: "Raiqa", right: "Every time heh.", wrong: "We both know that's not true." },
       { q: "What was our OG spot?", type: "text", match: "chinn", right: "You remembered.", wrong: "How could you forget?!" },
-      { q: "What's the song playing right now?", options: ["Life by Mac Miller", "Beautiful Boy", "Not a Lot, Just Forever"], answer: 0, right: "You're paying attention.", wrong: "Listen closer." }
+      { q: "What's the song playing right now?", options: ["Life by Mac Miller", "Beautiful Boy", "Not a Lot, Just Forever"], answer: "Life by Mac Miller", right: "You're paying attention.", wrong: "Listen closer." }
     ]
   },
 
