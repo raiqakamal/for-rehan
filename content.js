@@ -56,9 +56,9 @@ const FILM = {
     // Two photos with optional director's commentary (a voice note from you).
     photos: [
       { photo: "photos/ch1-a.jpg", caption: "caption here", voice: "voice/ch1-a.m4a" },
-      { photo: "photos/ch1-b.jpg", caption: "caption here", voice: "" }
+      { photo: "photos/ch1-b.jpg", caption: "Da first burday of many we got to spend together", voice: "" }
     ],
-    closing: "The man you're becoming is my favorite person I've ever known."
+    closing: "I grow more and more proud of you every day, I'm so happy to see you becoming the man you want to be."
   },
 
   // ---------- Chapter Two: Life ----------
@@ -115,42 +115,45 @@ const FILM = {
     page: {
       title: "Everything after.",
       paragraphs: [
-        "Right now there's an ocean between us. Your mornings are my nights, and some days the distance feels loud. But I have never once felt like it was stronger than us.",
-        "I'm so excited for our future. For the day the miles finally run out. For the trips we keep planning, and for the boring, ordinary days we'll get to spend in the same place.",
-        "I'm excited to watch you start this new chapter as an adult, and to stand next to you for all of it: the big wins, the hard days, and everything in between.",
-        "I don't need a lot from the years ahead. Just you, and forever. Happy birthday, my love."
+        "Right now, so many things are standing in between us, a literal ocean, the time difference, and our schoolwork. Your mornings are my nights, and some days you’re working when I’m free, and the other way around. The distance can feel loud sometimes, but it has never once felt stronger than us.",
+        "No matter how annoying it gets, I have no doubt that we’ll get through it together and come out better on the other side. We know how to talk things through, our conversations have so much substance to them, and when we’re finally together in person, we’ll appreciate it more than ever, no matter what life throws at us.",
+        "I’m so excited for our future together. For the day the distance finally stops separating us. For the hikes we’ll finally go on, the trips we’ll take, and the ordinary days we’ll get to spend together in the same place. With the hustle we’re both on, I can see all of it happening soon and lasting forever, iA.",
+        "I’m excited to watch you start this new chapter as an adult, in a new country, and as an AI entrepreneur thing. I’m so happy to be here with you through all of it: the wins, the hard days, the late nights, and everything in between.",
+        "You’re capable of such big things, and I believe in you every step of the way. Not a lot, just forever. I love youuu."
       ]
     },
     tagline: "On what's next.",
     paragraphs: [
-      "Right now there are 7,251 miles and nine hours between us. Your morning is my night.",
-      "But I'm not scared of the distance. I'm excited. For every time it shrinks to zero, for all the birthdays still coming, and for the life we're going to build."
+      "Right now there are 7,251 miles and nine hours between us.",
+      "The distance isn't scary because I'm excited for everything that comes with it and after it. For every time the miles shrink to 0, for all the birthdays still coming, and for the life we're going to build."
     ],
     // "Coming soon" trailers for your future
     comingSoon: [
       { title: "Zero Miles", line: "The day the distance finally runs out." },
-      { title: "Nineteen", line: "Your next birthday. Same room this time." },
-      { title: "The Trip", line: "The one we keep talking about." },
+      { title: "Nineteen", line: "Your next birthday. Different room this time." },
+      { title: "The Trip", line: "The ones we keep talking about." },
       { title: "Everything After", line: "All of it. With you." }
     ],
-    closing: "Not a lot. Just forever."
+    closing: "Not a lot. Just forever. Intertwined sewn together."
   },
 
   // ---------- The final scene: your letter ----------
   // A blank line starts a new paragraph. REWRITE THIS IN YOUR OWN WORDS.
   letter: `Rehan,
 
-Happy 18th birthday. I wish I could say this to you in person, so this little film will have to do for now.
+Happy 18th birthday. I wish I could say this to you in person and surprise you with all your gifts, but I hope this little project is okay for now.
 
 Thank you for growing with me, for being patient with me, and for choosing me every day from across the world.
 
 I'm so proud of who you are, and I can't wait to see who you become.
 
-I love you. Not a lot. Just forever.`,
+I hope and pray you have such a good year moving forward, you deserve all of it.
+
+I love you so much. Not a lot. Just forever.`,
 
   // ---------- End credits ----------
   credits: [
-    ["Starring", "Rehan, as himself"],
+    ["Starring", "Rehan da goatt"],
     ["Co-starring", "Raiqa"],
     ["Written and directed by", "Raiqa"],
     ["Filmed on location in", "Virginia · Dubai · FaceTime"],
@@ -163,19 +166,12 @@ I love you. Not a lot. Just forever.`,
   postCredits: {
     heading: "You stayed after the credits.",
     text: "Of course you did. One last thing before you go...",
-    video: "",          // e.g. "voice/message.mp4" for a video from you. "" hides it.
-    surprise: "Put your gift reveal or a final message here."
+    video: "voice/ch3-a.m4a",          // e.g. "voice/message.mp4" for a video from you. "" hides it.
+
   },
 
   // Your WhatsApp number for his review, with country code and no + or spaces (e.g. "15715551234").
   // Leave "" and it opens a normal text message instead.
-  herWhatsApp: "",
+  herWhatsApp: "17034620709",
 
-  // ---------- Deleted scenes (unlocked when he finds all 4 hidden 🎬) ----------
-  deletedScenes: [
-    { photo: "photos/deleted-1.jpg", caption: "blooper caption" },
-    { photo: "photos/deleted-2.jpg", caption: "blooper caption" },
-    { photo: "photos/deleted-3.jpg", caption: "blooper caption" },
-    { photo: "photos/deleted-4.jpg", caption: "blooper caption" }
-  ]
 };
