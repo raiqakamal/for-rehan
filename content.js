@@ -38,18 +38,21 @@ const FILM = {
     page: {
       title: "To the boy I met, and the man you're becoming.",
       paragraphs: [
-        "Happy 18th birthday. I've been thinking about this day for a while, and every time I try to put into words how proud I am of you, it comes out too small. So I'm going to try anyway.",
-        "When we met in 2023, we were so young. I didn't know then that I was getting to watch someone grow up in real time. I've watched you figure out who you are, what you care about, and what kind of person you want to be. I've seen you get knocked down and get back up, a little stronger every time.",
-        "The thing I love most is that growing up hasn't made you harder. It's made you kinder. You're more patient now, more thoughtful, and more sure of yourself. You take care of the people you love, me included, even from the other side of the world.",
-        "Eighteen looks good on you. I'm so grateful I got to be there for this part of the journey, and I can't wait to keep watching you become everything you're going to be."
+        "I didn’t think I could be any happier watching you step into this new chapter of your life. Then I realized I get to be here with you for it, and somehow that makes it even better.",
+        "I’ll always remember the passionate, driven boy I met when we first started talking. You still show me he’s there, especially now that you’ve taken your nerdy passions and turned them into a real goal you pour your days and nights into. I’m so proud of you, and I know freshman year Rehan would be too.
+",
+        "TWhen we met, I had no idea of the extent of your growing up I’d get to see, or that I’d get to be there for every step of it. I watched you go from building your whole life around swimming to choosing what actually makes you happy. I watched you figure out who you are and what kind of person you want to be. And I’ve seen you face obstacle after obstacle and come out of each one stronger than before.
+",
+        "This year has been different from the ones before it. You moved to Dubai, your days look completely different, we hit a bump in the middle, and we made it through another year together. That’s a lot of change, but I’m happy to say all of it was for the better. None of it made you lose hope or turn bitter. It made you wiser, more patient, more thoughtful, and more sure of yourself. I’ve always seen those things in you, and they only grow as time goes on. I admire the way that you take care of the people you love, and how you will never give up."
+        "Eighteen is going to look so good on you. I’m so grateful I get to stay by your side on this journey, and I can’t wait to watch you become everything you hope to be. I love you so so much stinkabutt. 
+"
       ]
     },
     tagline: "On becoming.",
     opening: "Happy birthday, Rehan.",
     paragraphs: [
-      "Eighteen. I keep saying it out loud and it still doesn't feel real.",
-      "I've been lucky enough to watch you grow up. Not just older, but kinder, steadier, and braver. The boy I met in 2023 has been turning into a man I'm so proud of, one day at a time.",
-      "I'm so glad I got a front row seat to it."
+      "Happy birthday to my best friend ever. You’re finally grown and 18! Every birthday I watch you become better from the last. I couldn’t be more grateful to watch you grow older, kinder, smarter, and wiser. ",
+      "I am so proud of who you are and I couldn’t be more grateful to watch you turn into the person you are today from the 14 year old I met in 2023. ",
     ],
     // "Develop the photo" activity. Use an older photo of him (or of you two at the start).
     develop: { photo: "photos/develop.jpg", before: "Hold and rub to develop", after: "Look how far you've come." },
